@@ -170,6 +170,7 @@ uint16_t accelerometer_getY()
 /* update with new data                                                 */
 /************************************************************************/
 
+
 uint8_t accelerometer_update()
 {
 	// if we are updateing values, return
